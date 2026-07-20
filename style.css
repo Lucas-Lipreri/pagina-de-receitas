@@ -9,7 +9,7 @@
 }
 
 body {
-    background-image: url(https://github.com/Lucas-Lipreri/pagina-de-receitas/blob/main/Assets/bg-image.png);
+    background-image: url(Assets/bg-image.png);
     background-color: #573824;
     background-repeat: cover;
 }
